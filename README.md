@@ -31,8 +31,8 @@ In fact, this script most likely won't work, due to the major differences in You
 
 ## Support the Developer
 
-If you enjoyed this extension, please consider supporting me by signing up for a CBT Nuggets subscription. 
-We offer incredible training materials for IT professionals on topics ranging from: 
+If you enjoyed this extension, please consider supporting me by [signing up for a FREE CBT Nuggets trial account](https://www.cbtnuggets.com/free-it-training). 
+We offer high-quality training materials for IT professionals on topics ranging from: 
 
 - 🚢 [Kubernetes training](https://www.cbtnuggets.com/blog/cbt-nuggets/new-course-certified-kubernetes-administrator-cka)
 - 👨🏻‍💻 [GitHub training](https://www.cbtnuggets.com/it-training/programming-and-development/github)
