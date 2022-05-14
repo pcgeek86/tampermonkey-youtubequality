@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Enables users of YouTube to alter video quality settings with the keyboard.
 // @author       Trevor Sullivan
-// @match        https://www.youtube.com/watch*
+// @match        https://*.youtube.com/watch*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // ==/UserScript==
