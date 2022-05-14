@@ -52,6 +52,7 @@
           return;
         }
 
+        // User wants to decrease quality setting, by one step
         if (event.code == 'BracketLeft') {
           console.log('Selecting next lower quality option');
           if (currentIndex < qualityOptions.length-1) {
@@ -60,6 +61,7 @@
           else { currentQuality.click(); }
         }
 
+        // User wants to increase quality setting, by one step
         if (event.code == 'BracketRight') {
           console.log('Selecting next higher quality option');
           if (currentIndex > 0) {
@@ -69,7 +71,7 @@
             nextOption.click();
           }
           else {
-            // Just click the currently selected option
+            // Otherwise, just click the currently selected option to close the quality menu
             currentQuality.click();
           }
         }
