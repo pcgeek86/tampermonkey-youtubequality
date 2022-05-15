@@ -4,7 +4,7 @@ This project enables you to modify YouTube video quality, by using keyboard shor
 
 ## Installation
 
-1. Install Tampermonkey extension for your browser [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+1. Install Tampermonkey extension for your browser [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 2. Add the `youtube-quality.js` file as a Tampermonkey script
 
 ## Usage 
